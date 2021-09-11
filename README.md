@@ -1,6 +1,8 @@
 ### It's ido' Field
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iDoyoung&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoyoung&layout=compact)](https://github.com/iDoyoung/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iDoyoung&repo=github-readme-stats)](https://github.com/iDoyoung/github-readme-stats)
+
 <!--
 **ido-zero/ido-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
