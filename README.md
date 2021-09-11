@@ -1,7 +1,7 @@
 ### It's ido' Field
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iDoyoung&show_icons=true&theme=outrun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoyoung&layout=compact)](https://github.com/iDoyoung/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iDoyoung&repo=Refactoring-Schrodinger-iOS)](https://github.com/iDoyoung/Refactoring-Schrodinger-iOS&theme=dark&show_icons=true))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoyoung&layout=compact)](https://github.com/iDoyoung/github-readme-stats&theme=dark&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iDoyoung&repo=Refactoring-Schrodinger-iOS)](https://github.com/iDoyoung/Refactoring-Schrodinger-iOS))
 
 <!--
 **ido-zero/ido-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
